@@ -49,6 +49,16 @@ Skilled in building responsive web applications using modern technologies and co
 * Added features to identify toppers, failed students, student performance trends, and revaluation outcomes.
 * Designed the system to reduce manual result analysis and help the department make data-driven academic decisions.
 
+
+### 📢 CampusVoice – College Feedback & Grievance Management System
+
+*Tech: MERN Stack (MongoDB, Express.js, React.js, Node.js), Bootstrap*
+
+- Developed a role-based platform connecting Students, Faculty, HODs, and the Principal.
+- Implemented feedback, surveys, private suggestions, and complaint management with tracking and escalation.
+- Integrated DSA concepts, notifications, and role-specific dashboards with analytics.
+
+
 ### 📚 Library Management System
 
 *Tech: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB*
@@ -65,7 +75,6 @@ Skilled in building responsive web applications using modern technologies and co
 * Built a project to analyze and identify potentially harmful or phishing URLs.
 * Focused on improving cybersecurity awareness and safe browsing practices.
 
----
 
 ### 🎮 Simon Says Game
 
@@ -74,6 +83,8 @@ Skilled in building responsive web applications using modern technologies and co
 * Built an interactive memory-based game inspired by the classic “Simon Says” concept.
 * Implemented dynamic color patterns, score tracking, and increasing difficulty levels.
 * Enhanced understanding of JavaScript event handling and DOM manipulation.
+
+---
 
 ## 🚀 Strengths
 
