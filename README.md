@@ -16,11 +16,11 @@ Skilled in building responsive web applications using modern technologies and co
 
 ## 🛠️ Technical Skills
 
-* **Frontend:** HTML5, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 * **Backend:** Node.js, Express.js
-* **Database:** MySQL, MongoDB (Basics)
+* **Database:** MySQL, MongoDB
 * **Programming Languages:** Java, Python, C
-* **Tools & Platforms:** Git, GitHub, VS Code, Postman
+* **Tools & Platforms:** Git, GitHub, VS Code, Postman(Hoppscotch)
 * **Other Skills:** REST APIs, Responsive Web Design, Problem Solving
 
 ---
@@ -40,6 +40,15 @@ Skilled in building responsive web applications using modern technologies and co
 
 ## 💼 Academic & Personal Projects
 
+### 📊 Student Result Analysis System (SRAAS)
+
+*Tech: HTML, CSS, JavaScript, Node.js, Express.js, EJS, MySQL, Sequelize, Bootstrap, Chart.js*
+
+* Developed a result automation and analytics system for the MCA Department at Sir M. Visvesvaraya Institute of Technology (Sir MVIT).
+* Implemented student result management, subject-wise and semester-wise analysis, dashboards, and reports to simplify academic result evaluation.
+* Added features to identify toppers, failed students, student performance trends, and revaluation outcomes.
+* Designed the system to reduce manual result analysis and help the department make data-driven academic decisions.
+
 ### 📚 Library Management System
 
 *Tech: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB*
@@ -48,13 +57,6 @@ Skilled in building responsive web applications using modern technologies and co
 * Implemented features like book search, record management, and due-date tracking.
 * Improved organization and efficiency of library operations using database integration.
 
-### 🎮 Simon Says Game
-
-*Tech: HTML, CSS, JavaScript*
-
-* Built an interactive memory-based game inspired by the classic “Simon Says” concept.
-* Implemented dynamic color patterns, score tracking, and increasing difficulty levels.
-* Enhanced understanding of JavaScript event handling and DOM manipulation.
 
 ### 🔐 URL Safety Checker
 
@@ -64,6 +66,14 @@ Skilled in building responsive web applications using modern technologies and co
 * Focused on improving cybersecurity awareness and safe browsing practices.
 
 ---
+
+### 🎮 Simon Says Game
+
+*Tech: HTML, CSS, JavaScript*
+
+* Built an interactive memory-based game inspired by the classic “Simon Says” concept.
+* Implemented dynamic color patterns, score tracking, and increasing difficulty levels.
+* Enhanced understanding of JavaScript event handling and DOM manipulation.
 
 ## 🚀 Strengths
 
@@ -80,7 +90,6 @@ Skilled in building responsive web applications using modern technologies and co
 * Artificial Intelligence
 * Problem Solving
 * DSA
-* Open Source Projects
 * Learning Emerging Technologies
 
 ---
